@@ -8,6 +8,7 @@
 	  Na forum: <strong>{online-num}</strong> odwiedzających w ostatnich {online_time} minut<br />
 	  Użytkownicy: <strong>{member_count}</strong>&nbsp;&nbsp;Goście: <strong>{guest_count}</strong><br />
 	  {member_online}<hr />
+	  <Strong>Członek/członkowie zalogowali się mniej niż 24 godziny temu</strong><br /> {user_last}<hr />
 [/online-stats]
 	  Wszystkich użytkowników: <strong>{all-users}</strong>, Aktywnych: <strong>{forum-users}</strong><br />
 	  Najnowszym użytkownikiem jest: <strong>{last_user}</strong><br />
